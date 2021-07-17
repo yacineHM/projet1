@@ -1,0 +1,14 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" 
+"http://www.w3.org/TR/html4/loose.dtd"> 
+<html> 
+<head> 
+<title>Titre affiché dans la barre du navigateur</title>
+</head> 
+<body> 
+<h1>titre modifier</h1> 
+<p>paragraphe modifier</p> 
+<ul> 
+<li>item 1</li> 
+</ul> 
+</body> 
+</html>
